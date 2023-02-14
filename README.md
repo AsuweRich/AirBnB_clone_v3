@@ -154,7 +154,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Asuwe Richard - [Github](https://github.com/AsuweRich)
+Asuwe Richard - [Github](https://github.com/AsuweRich) <br>
 Timothy Adekunle - [Github](https://github.com/AsuweRich)
 
 
